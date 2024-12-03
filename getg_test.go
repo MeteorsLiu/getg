@@ -1,4 +1,4 @@
-package getm
+package goruntimehack
 
 import (
 	"sync"

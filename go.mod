@@ -1,4 +1,4 @@
-module github.com/MeteorsLiu/getm
+module github.com/MeteorsLiu/go-runtime-hack
 
 go 1.20
 
